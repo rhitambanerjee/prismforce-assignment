@@ -1,5 +1,4 @@
 ### Imagine Abhimanyu in Chakravyuha. There are 11 circles in the Chakravyuha surrounded by different enemies. Abhimanyu is located in the innermost circle and has to cross all the 11 circles to reach Pandavas army back. 
-
  Given:
 -  Each circle is guarded by different enemy where enemy is equipped with k1, k2……k11 powers
 - Abhmanyu start from the innermost circle with p power Abhimanyu has a boon to skip fighting enemy a times 
