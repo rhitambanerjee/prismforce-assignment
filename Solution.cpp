@@ -7,8 +7,7 @@ int initialPower;
 
 
 // Memorization Function to check if Abhimanyu can cross the Chakravyuha
-bool canCrossChakravyuha(int index, int &totalCircles, vector<int> enemies, int currentPower, 
-                                   int skipsLeft,int rechargesLeft, vector<vector<vector<vector<int>>>> &dp) {
+bool canCrossChakravyuha(int index, int &totalCircles, vector<int> enemies, int currentPower, int skipsLeft,int rechargesLeft, vector<vector<vector<vector<int>>>> &dp) {
     
     // If Abhimanyu has crossed all circles
     if (index == totalCircles) {
